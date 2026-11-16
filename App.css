@@ -1,0 +1,4 @@
+/* App.css — reset Vite default styles, index.css handles everything */
+#root {
+  /* No forced max-width — full page layouts */
+}
